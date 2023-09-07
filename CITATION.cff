@@ -13,6 +13,7 @@ authors:
 identifiers:
   - type: url
     value: 'https://github.com/YJChen22/LSort'
+repository-code: 'https://github.com/YJChen22/LSort'
 abstract: >-
   LSort is a hybrid sorting algorithm using MSD radix sort
   and Merge-insertion sort.
