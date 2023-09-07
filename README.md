@@ -1,11 +1,14 @@
 # LSort
-LSort is a hybrid sorting algorithm.
+
+Here is a Java implementation of the LSort algorithm, which is asymptotically 10x faster than the basic Quicksort implementation.
 
 ## :warning: WARNING
 
 This repository is intentionally created with NO LICENSE. The [elucidation](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) below is posted by GitHub:
 
 > However, without a license, the default copyright laws apply, meaning that you retain all rights to your source code and no one may reproduce, distribute, or create derivative works from your work.
+
+You can cite this repository without violating the above policy. Please check the "Cite this repository" button.
 
 ## Introduction
 
@@ -26,5 +29,3 @@ LSort uses MSD radix sort to reduce the number of recursions. This allows it to 
 </details>
 
 ![Screenshot_20230906_182622](https://github.com/YJChen22/LSort/assets/144348310/8fc42811-2ed6-43b7-9a7f-acba83314ed5)
-
-
