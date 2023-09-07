@@ -28,4 +28,4 @@ LSort uses MSD radix sort to reduce the number of recursions. This allows it to 
   * OpenJDK: 20.0.2
 </details>
 
-![Screenshot_20230906_182622](https://github.com/YJChen22/LSort/assets/144348310/8fc42811-2ed6-43b7-9a7f-acba83314ed5)
+![Screenshot_20230906_182622](./Screenshot_20230906_182622.png)
