@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: LSort
+message: Please cite it using the metadata from this file.
+type: software
+authors:
+  - given-names: Yijia
+    family-names: Chen
+    email: chenyijia22@m.fudan.edu.cn
+    affiliation: Fudan University
+abstract: >-
+  LSort is a hybrid sorting algorithm using MSD radix sort
+  and Merge-insertion sort.
+keywords:
+  - Sorting Algorithm
+  - Radix sort
+  - Merge-insertion sort
