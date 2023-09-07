@@ -12,7 +12,7 @@ You can cite this repository without violating the above policy. Please check th
 
 ## Introduction
 
-LSort is a hybrid sorting algorithm using [MSD radix sort](https://en.wikipedia.org/wiki/Radix_sort#Most_significant_digit,_forward_recursive) and [Merge-insertion sort](https://en.wikipedia.org/wiki/Merge-insertion_sort). On relatively small arrays, LSort fall back to Insertion sort. For larger ones, it first uses MSD radix sort to scale down the subarrays, then turn to Merge-insertion sort.
+LSort is a hybrid sorting algorithm using [MSD radix sort](https://en.wikipedia.org/wiki/Radix_sort#Most_significant_digit,_forward_recursive) and [Merge-insertion sort](https://en.wikipedia.org/wiki/Merge-insertion_sort). On relatively small arrays, LSort falls back to Insertion sort. For larger ones, it first uses MSD radix sort to scale down the subarrays, then turn to Merge-insertion sort.
 
 The specific implementation in this repository is concurrent.
 
